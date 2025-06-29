@@ -52,6 +52,7 @@ If needed:
 2. Run:
    ```cmd
    dism /online /Enable-Feature /FeatureName:TelnetClient
+   ```
    ![Screenshot 2025-06-29 181621](https://github.com/user-attachments/assets/09b00091-2b98-453a-80ba-f4a774074705)
 
 
