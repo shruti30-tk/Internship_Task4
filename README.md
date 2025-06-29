@@ -8,7 +8,7 @@ Configure and test Windows Firewall rules to block and allow specific network tr
 
 ## System Used
 - **OS:** Windows 10 / 11
-- **Tool:** Windows Defender Firewall with Advanced Security
+- **Tool:** Windows Defender Firewall with Advanced Security 
 
 ---
 
