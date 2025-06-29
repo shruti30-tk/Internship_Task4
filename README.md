@@ -24,7 +24,7 @@ Configure and test Windows Firewall rules to block and allow specific network tr
 ### Step 2: Block Inbound Traffic on Port 23 (Telnet)
 1. Click **Inbound Rules** → **New Rule**
 2. Select **Port**, click **Next**
-   ![Screenshot 2025-06-29 180448](https://github.com/user-attachments/assets/35f21efa-3f29-4fad-b415-af90b8ad1045)
+   ![Screenshot 2025-06-29 190808](https://github.com/user-attachments/assets/80b3fa93-d59a-439a-8948-144cd151503b)
 
 4. Choose **TCP**, enter port `23`, click **Next**
 5. Choose **Block the connection**, click **Next**
